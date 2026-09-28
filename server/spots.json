@@ -1,0 +1,22 @@
+[
+  { "name": "광안리 해변 산책", "area": "광안리", "category": "야외", "indoor": false, "budget": 0, "mood": ["로맨틱", "야경", "무료"] },
+  { "name": "민락수변공원 포장마차", "area": "광안리", "category": "맛집", "indoor": false, "budget": 30000, "mood": ["야경", "술", "캐주얼"] },
+  { "name": "해운대 블루라인파크 해변열차", "area": "해운대", "category": "액티비티", "indoor": false, "budget": 15000, "mood": ["액티브", "바다"] },
+  { "name": "해운대 아쿠아리움", "area": "해운대", "category": "실내", "indoor": true, "budget": 30000, "mood": ["실내", "비오는날"] },
+  { "name": "동백섬 산책로", "area": "해운대", "category": "야외", "indoor": false, "budget": 0, "mood": ["로맨틱", "무료", "야경"] },
+  { "name": "서면 노포집 곱창", "area": "서면", "category": "맛집", "indoor": true, "budget": 40000, "mood": ["실내", "술", "든든한"] },
+  { "name": "서면 CGV 데이트", "area": "서면", "category": "실내", "indoor": true, "budget": 30000, "mood": ["실내", "비오는날", "캐주얼"] },
+  { "name": "전포 카페거리", "area": "서면", "category": "카페", "indoor": true, "budget": 15000, "mood": ["감성", "실내", "인생샷"] },
+  { "name": "남포동 국제시장 먹거리 투어", "area": "남포동", "category": "맛집", "indoor": false, "budget": 20000, "mood": ["캐주얼", "저렴한"] },
+  { "name": "흰여울문화마을", "area": "영도", "category": "야외", "indoor": false, "budget": 0, "mood": ["감성", "인생샷", "무료"] },
+  { "name": "태종대 산책", "area": "영도", "category": "야외", "indoor": false, "budget": 5000, "mood": ["자연", "산책"] },
+  { "name": "동래읍성 야경 산책", "area": "동래", "category": "야외", "indoor": false, "budget": 0, "mood": ["로맨틱", "야경", "무료"] },
+  { "name": "금정산성 등산 데이트", "area": "금정구", "category": "액티비티", "indoor": false, "budget": 0, "mood": ["자연", "액티브", "무료"] },
+  { "name": "부산대 앞 술집거리", "area": "금정구", "category": "맛집", "indoor": true, "budget": 30000, "mood": ["실내", "술", "캐주얼"] },
+  { "name": "양산 통도사 사찰 산책", "area": "양산", "category": "야외", "indoor": false, "budget": 5000, "mood": ["자연", "힐링"] },
+  { "name": "양산 물금 황산공원 자전거", "area": "양산", "category": "액티비티", "indoor": false, "budget": 10000, "mood": ["액티브", "자연"] },
+  { "name": "양산 이마트 근처 브런치카페", "area": "양산", "category": "카페", "indoor": true, "budget": 20000, "mood": ["실내", "감성", "비오는날"] },
+  { "name": "송정 서핑 체험", "area": "해운대", "category": "액티비티", "indoor": false, "budget": 60000, "mood": ["액티브", "여름", "특별한"] },
+  { "name": "감천문화마을", "area": "사하", "category": "야외", "indoor": false, "budget": 0, "mood": ["인생샷", "산책", "무료"] },
+  { "name": "F1963 복합문화공간", "area": "수영", "category": "실내", "indoor": true, "budget": 15000, "mood": ["감성", "실내", "전시", "비오는날"] }
+]
